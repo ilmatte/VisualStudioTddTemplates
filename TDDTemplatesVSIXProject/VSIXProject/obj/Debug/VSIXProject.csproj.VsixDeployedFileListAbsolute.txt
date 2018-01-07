@@ -1,0 +1,12 @@
+C:\Users\il_ma_000\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Matteo Tontini\VSIXProject\1.0\\extension.vsixmanifest
+C:\Users\il_ma_000\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Matteo Tontini\VSIXProject\1.0\ProjectTemplates\\Test Project.zip
+C:\Users\il_ma_000\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Matteo Tontini\VSIXProject\1.0\ItemTemplates\\Test Class.zip
+C:\Users\il_ma_000\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Matteo Tontini\VSIXProject\1.0\TddSnippets\\TDD.snippet
+C:\Users\il_ma_000\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Matteo Tontini\VSIXProject\1.0\ProjectTemplates\\TestProject.zip
+C:\Users\il_ma_000\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Matteo Tontini\VSIXProject\1.0\ItemTemplates\\TestClass.zip
+C:\Users\il_ma_000\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Matteo Tontini\VSIXProject\1.0\TddSnippets\\snippets.pkgdef
+C:\Users\il_ma_000\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Matteo Tontini\Tdd Templates with Rhino Mocks\1.0\\extension.vsixmanifest
+C:\Users\il_ma_000\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Matteo Tontini\Tdd Templates with Rhino Mocks\1.0\ProjectTemplates\\TestProject.zip
+C:\Users\il_ma_000\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Matteo Tontini\Tdd Templates with Rhino Mocks\1.0\ItemTemplates\\TestClass.zip
+C:\Users\il_ma_000\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Matteo Tontini\Tdd Templates with Rhino Mocks\1.0\TddSnippets\\snippets.pkgdef
+C:\Users\il_ma_000\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Matteo Tontini\Tdd Templates with Rhino Mocks\1.0\TddSnippets\\TDD.snippet

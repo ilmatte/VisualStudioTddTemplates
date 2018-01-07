@@ -1,0 +1,19 @@
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011">
+  <Metadata>
+    <Identity Id="VSIXProject.Matteo Tontini.1cfb0ded-8cd6-43ea-844f-c79eedea56a5" Version="1.0" Language="en-US" Publisher="Matteo Tontini" />
+    <DisplayName>Tdd Templates with Rhino Mocks</DisplayName>
+    <Description xml:space="preserve">Project and Item templates for Unit testing with Nunit and Rhino Mocks.
+Featuring a couple of snippets too: TDDtestmethod, TDDusing</Description>
+  </Metadata>
+  <Installation>
+    <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[14.0]" />
+  </Installation>
+  <Dependencies>
+    <Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" Version="[4.5,)" />
+  </Dependencies>
+  <Assets>
+    <Asset Type="Microsoft.VisualStudio.ProjectTemplate" Path="ProjectTemplates" />
+    <Asset Type="Microsoft.VisualStudio.ItemTemplate" Path="ItemTemplates" />
+    <Asset Type="Microsoft.VisualStudio.VsPackage" Path="TddSnippets\snippets.pkgdef" />
+  </Assets>
+</PackageManifest>

@@ -1,0 +1,10 @@
+C:\Develop\TDDTemplates\NewTest2017\TDDTemplatesVSIXProject\VSIXProject\bin\Release\ProjectTemplates\TestProject.zip
+C:\Develop\TDDTemplates\NewTest2017\TDDTemplatesVSIXProject\VSIXProject\bin\Release\ItemTemplates\TestClass.zip
+C:\Develop\TDDTemplates\NewTest2017\TDDTemplatesVSIXProject\VSIXProject\bin\Release\TddSnippets\snippets.pkgdef
+C:\Develop\TDDTemplates\NewTest2017\TDDTemplatesVSIXProject\VSIXProject\bin\Release\TddSnippets\TDD.snippet
+C:\Develop\TDDTemplates\NewTest2017\TDDTemplatesVSIXProject\VSIXProject\bin\Release\VSIXProject.vsix
+C:\Develop\TDDTemplates\NewTest2017\TDDTemplatesVSIXProject\VSIXProject\bin\Release\extension.vsixmanifest
+C:\Develop\TDDTemplates\NewTest2017\TDDTemplatesVSIXProject\VSIXProject\obj\Release\VSIXProject.csprojResolveAssemblyReference.cache
+C:\Develop\TDDTemplates\NewTest2017\TDDTemplatesVSIXProject\VSIXProject\obj\Release\VSIXProject.dll
+C:\Develop\TDDTemplates\NewTest2017\TDDTemplatesVSIXProject\VSIXProject\obj\Release\VSIXProject.pdb
+C:\Develop\TDDTemplates\NewTest2017\TDDTemplatesVSIXProject\VSIXProject\obj\Release\extension.vsixmanifest

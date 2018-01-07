@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets
+    xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+    <CodeSnippet Format="1.0.0">
+        <Header>
+			<Title>Rhino using</Title>
+            <Shortcut>TDDusing</Shortcut>
+			<Author>ilmatte</Author>
+            <Description>Inserts a using block for RhinoMocks.</Description>
+            <SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+            <Keywords>
+                 <Keyword>TDD</Keyword>
+                 <Keyword>RhinoMocks</Keyword>
+            </Keywords>
+        </Header>
+        <Snippet>
+            <Declarations>
+				<Object>
+                    <ID>mocks</ID>
+                    <Type>Rhino.Mocks.MockRepository</Type>
+                    <ToolTip>Replace with an initialized mockrepository instance.</ToolTip>
+                    <Default>mocks</Default>
+                </Object>
+            </Declarations>
+			<Code Language="CSharp"
+				  Kind="method body">
+                <![CDATA[
+					using ($mocks$.Record())
+		            {
+		                $end$
+		            }
+
+		            using ($mocks$.Playback())
+		            {
+		            }
+				]]>
+            </Code>
+        </Snippet>
+    </CodeSnippet>
+	<CodeSnippet Format="1.0.0">
+        <Header>
+            <Title>Nunit test method</Title>
+            <Shortcut>TDDtestmethod</Shortcut>
+			<Author>ilmatte</Author>
+            <Description>Inserts a nunit test method declaration.</Description>
+            <SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+            <Keywords>
+                 <Keyword>TDD</Keyword>
+                 <Keyword>Nunit</Keyword>
+            </Keywords>
+        </Header>
+        <Snippet>
+            <Declarations>
+                <Literal>
+                    <ID>methodName</ID>
+                    <ToolTip>method name.</ToolTip>
+                    <Default>TestMethod</Default>
+                </Literal>
+				<Literal>
+                    <ID>methodAttribute</ID>
+                    <ToolTip>test method attribute.</ToolTip>
+                    <Default>Test</Default>
+                </Literal>
+            </Declarations>
+            <Code Language="CSharp">
+                <![CDATA[
+                    [$methodAttribute$]
+					public void $methodName$()
+					{
+						$end$
+					}
+                ]]>
+            </Code>
+        </Snippet>
+    </CodeSnippet>
+</CodeSnippets>
