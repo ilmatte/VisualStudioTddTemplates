@@ -1,0 +1,1 @@
+C:\Develop\TDDTemplates\NewTest2017\TestClass\TestClass\obj\Debug\TestClass.csprojResolveAssemblyReference.cache
