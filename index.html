@@ -1,0 +1,37 @@
+---
+layout: default
+overview: true
+---
+
+<body>
+<div data-type="ad" data-publisher="ilmatte.github.io" data-format="728x90" data-zone="tddtemplates" ></div>
+<br/>
+<div class="wikidoc">
+ <h1>TDD Project and Item Templates (for Visual Studio 2015)</h1>
+ <hr/>
+If you’ve been using ‘NUnit’ you found yourself involved in doing repetitive actions like creating test projects
+and adding test classes and test methods. 
+If you ever had a try with the ‘Rhino Mocks’ mocking framework you had an extra bit of repetitive code to write, 
+in all of your TestFixture classes.
+
+I was tired of always creating a new test project for each project in my solution and manually add references. 
+I was tired of always prepare test classes with Setup and Teardown methods as well as other standard elements.
+
+Then I created a standard Project Template creating a test class library, 
+an Item Template creating a Rhino Mocks enabled TestFixture class, and a couple of useful code snippets.
+
+All this stuff is targeted to Visual C# projects and documented <a href="docs/Documentation.html" target="blank">here</a>
+
+</div>
+<script type='text/javascript'>
+function _dmBootstrap(file) {
+    var _dma = document.createElement('script');
+    _dma.type = 'text/javascript';
+    _dma.async = true;
+    _dma.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + file;
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(_dma);
+}
+function _dmFollowup(file) { if (typeof DMAds === 'undefined') _dmBootstrap('cdn2.DeveloperMedia.com/a.min.js'); }
+(function () { _dmBootstrap('cdn1.DeveloperMedia.com/a.min.js'); setTimeout(_dmFollowup, 2000); })();
+</script>
+</body>
